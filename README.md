@@ -1,4 +1,5 @@
 # CSCI-3432-Databases
+Class Group Project - Fall 2024
 # Collaborators
 
 - James Traylor  
