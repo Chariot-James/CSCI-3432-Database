@@ -1,4 +1,11 @@
 # CSCI-3432-Databases
+# Collaborators
+
+- James Traylor  
+- Gabrielle Taylor 
+- Nathan George
+- McKinsey Cole
+  
 # Restaurant Support Database
 
 This repository contains the SQL schema and data dump for a sample restaurant management system. It was created as part of a class project to demonstrate relational database design, data handling, and the use of triggers, stored procedures, and foreign key constraints.
