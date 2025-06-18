@@ -39,8 +39,3 @@ I was responsible for designing and coding the entire database structure, includ
 
 ---
 
-## How to Use
-
-1. Import the `restaurantsupport.sql` file into your MySQL server:
-   ```bash
-   mysql -u your_user -p < restaurantsupport.sql
